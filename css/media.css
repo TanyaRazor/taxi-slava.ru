@@ -29,7 +29,7 @@
 
   .span__services {
     font-size: 14px;
-    padding-bottom: 24px;
+    margin-bottom: 24px;
   }
 
   .phone__container {
@@ -73,7 +73,7 @@
 
   .span__services {
     font-size: 10px;
-    padding-bottom: 24px;
+    margin-bottom: 24px;
   }
 
   .phone__container {
@@ -121,7 +121,7 @@
 
   .span__services {
     font-size: 10px;
-    padding-bottom: 24px;
+    margin-bottom: 24px;
   }
 
   .phone__container {
