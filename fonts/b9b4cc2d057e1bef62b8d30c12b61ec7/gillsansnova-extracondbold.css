@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'GillSansNova-ExtraCondBold';
+	src: url('../fonts/gillsansnova-extracondbold.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/gillsansnova-extracondbold.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/gillsansnova-extracondbold.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/gillsansnova-extracondbold.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/gillsansnova-extracondbold.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/gillsansnova-extracondbold.svg#gillsansnova-extracondbold') format('svg'); /* Chrome < 4, Legacy iOS */
+}
